@@ -73,7 +73,25 @@
   - Tratamento de erros
     - stacktrace-js
   - Deploy
-    - 
+
+- Flask
+  - Arquitetura
+  - CLI
+  - REST
+    - routes
+  - SQLAlchemy
+    - models
+  - Graphene
+    - schemas
+
+- Django
+  - Arquitetura
+    - MVC x MTV
+  - CLI
+  - Apps
+  - Models
+  - Urls
+  - Views
 
 - OAuth2 - protocolo de autenticação
 
